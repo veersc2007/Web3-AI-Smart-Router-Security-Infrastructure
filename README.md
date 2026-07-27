@@ -15,7 +15,7 @@
 - [📖 User & Tester Walkthrough](#-user--tester-walkthrough)
 - [🧪 60-Second Demo Sequence](#-60-second-demo-sequence)
 - [📚 Technical Glossary](#-technical-glossary)
-- [🛡️ License and Contributing](#-license-and-contributing)
+- [🛡️ License & Contributing](#-license--contributing)
 ---
 
 ## 🏆 Project Overview & Value Proposition
