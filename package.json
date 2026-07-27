@@ -1,0 +1,31 @@
+{
+  "name": "web3-rpc-aggregator",
+  "version": "1.0.0",
+  "description": "A decentralized RPC aggregator and routing proxy",
+  "main": "src/aggregator.ts",
+  "scripts": {
+    "start": "tsx src/aggregator.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^2.13.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.6.1",
+    "ethers": "^6.9.0",
+    "express": "^4.22.2",
+    "express-rate-limit": "^8.6.1",
+    "node-fetch": "^3.3.2",
+    "simple-statistics": "^7.9.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.25",
+    "@types/node": "^20.19.43",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.23.1",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,17 @@
+
+services:
+  web3-aggregator:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: web3_smart_router
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:3000/metrics"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
