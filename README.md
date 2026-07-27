@@ -5,17 +5,17 @@
 ---
 
 ## 📌 Table of Contents
+
 - [🏆 Project Overview & Value Proposition](#-project-overview--value-proposition)
 - [🔄 Architecture & System Flowchart](#-architecture--system-flowchart)
-- [🖥️ Dashboard Layout & Component Map](#️-dashboard-layout--component-map)
+- [🖥️ Dashboard Layout & Component Map](#-dashboard-layout--component-map)
 - [✨ Core Capabilities & Features](#-core-capabilities--features)
-- [🛠️ Tech Stack](#️-tech-stack)
+- [🛠️ Tech Stack](#-tech-stack)
 - [🚀 Quick Start: Running on Your Local PC](#-quick-start-running-on-your-local-pc)
 - [📖 User & Tester Walkthrough](#-user--tester-walkthrough)
-- [🧪 60-Second Demo Sequence](#-60-second-demo-sequence-for-judges)
-- [📚 Technical Glossary](#-technical-terminology-glossary)
-- [🛡️ License & Contributing](#️-license--contributing)
-
+- [🧪 60-Second Demo Sequence](#-60-second-demo-sequence)
+- [📚 Technical Glossary](#-technical-glossary)
+- [🛡️ License and Contributing](#-license-and-contributing)
 ---
 
 ## 🏆 Project Overview & Value Proposition
