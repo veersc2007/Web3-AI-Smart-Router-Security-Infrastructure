@@ -298,15 +298,11 @@ Click **Add to Wallet** to show how users can securely route their existing wall
 
 ---
 
-# 🛡️ License
+# 🛡️ License and Contributing
 
 Distributed under the **MIT License**.
 
 See the `LICENSE` file for details.
-
----
-
-# 🤝 Contributing
 
 Contributions are welcome!
 
@@ -318,3 +314,5 @@ If you'd like to improve this project:
 4. Open a Pull Request
 
 Issues, feature requests, and suggestions are always appreciated.
+
+---
