@@ -15,7 +15,7 @@
 - [📖 User & Tester Walkthrough](#-user--tester-walkthrough)
 - [🧪 60-Second Demo Sequence](#-60-second-demo-sequence)
 - [📚 Technical Glossary](#-technical-glossary)
-- [🛡️ License & Contributing](#-license--contributing)
+- [🛡️ License & Contributing]([#-license--contributing](https://github.com/veersc2007/Web3-AI-Smart-Router-Security-Infrastructure/blob/main/README.md#%EF%B8%8F-license--contributing))
 ---
 
 ## 🏆 Project Overview & Value Proposition
