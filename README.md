@@ -298,7 +298,7 @@ Click **Add to Wallet** to show how users can securely route their existing wall
 
 ---
 
-# 🛡️ License and Contributing
+# 🛡️ License & Contributing
 
 Distributed under the **MIT License**.
 
