@@ -12,8 +12,8 @@
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Quick Start: Running on Your Local PC](#-quick-start-running-on-your-local-pc)
 - [📖 User & Tester Walkthrough](#-user--tester-walkthrough)
-- [🧪 60-Second Demo Sequence for Judges](#-60-second-demo-sequence-for-judges)
-- [📚 Technical Terminology Glossary](#-technical-terminology-glossary)
+- [🧪 60-Second Demo Sequence](#-60-second-demo-sequence-for-judges)
+- [📚 Technical Glossary](#-technical-terminology-glossary)
 - [🛡️ License & Contributing](#️-license--contributing)
 
 ---
